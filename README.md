@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 **Bold**
-'''python
+
+*'''python
 I am Sankalp Chaudhary and my intrest lies in machine learning, 
-deeplearning and also combining these models with OpenCV.'''
+deeplearning and also combining these models with OpenCV.'''*
 
 '''
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects.
