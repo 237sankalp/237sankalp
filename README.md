@@ -15,4 +15,4 @@ deeplearning and also combining these models with OpenCV.***
 :link: [Face Detection Project](https://github.com/237sankalp/My-Face-Detection-project/blob/master/VideoD.py)<br/>
 :link: [Stock Price Detection](https://github.com/237sankalp/My-Deep-learning-projects/blob/master/RNN.py)<br/>
 :link: [Cat and Dog detection](https://github.com/237sankalp/My-Deep-learning-projects/blob/master/CNN.py)<br/>
-**More in my repositories**
+**More in my repositories along with data**
