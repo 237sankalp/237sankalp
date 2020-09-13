@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ***I am Sankalp Chaudhary and my intrest lies in machine learning, 
 deeplearning and also combining these models with OpenCV.***
