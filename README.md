@@ -11,5 +11,8 @@ deeplearning and also combining these models with OpenCV.***
 >:diamonds::bowtie: Here to share and gain knowledge.<br/><br/>
 >:diamonds::alien: Fun fact: Thinking out of the box.
 <br/><br/>
-**My Projects**
-:link: [Face Detection Project](https://github.com/237sankalp/My-Face-Detection-project/blob/master/VideoD.py)
+**My Projects**<br/>
+:link: [Face Detection Project](https://github.com/237sankalp/My-Face-Detection-project/blob/master/VideoD.py)<br/>
+:link: [Stock Price Detection](https://github.com/237sankalp/My-Deep-learning-projects/blob/master/RNN.py)<br/>
+:link: [Cat and Dog detection](https://github.com/237sankalp/My-Deep-learning-projects/blob/master/CNN.py)<br/>
+**More in my repositories**
