@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**237sankalp/237sankalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bold**
+'''python
+I am Sankalp Chaudhary and my intrest lies in machine learning, 
+deeplearning and also combining these models with OpenCV.'''
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+'''
+- 🔭 I’m currently working on Machine Learning and Deep Learning Projects.
+- 👯 I’m looking to collaborate on ML,DL,AI projects.
+- 💬 Ask me about OpenCV,TensorFlow,Pytorch.
+- 📫 How to reach me: sankalp.h.c@gmail.com is my mail.
+- :bowtie:
+- ⚡ Fun fact: 
+'''
