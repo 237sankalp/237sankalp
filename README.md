@@ -4,7 +4,7 @@
 deeplearning and also combining these models with OpenCV.***
 
 
->:diamonds::curly_loop: I’m currently working on Machine Learning and Deep Learning Projects.<br/>
+>:diamonds::curly_loop: I’m currently working on Machine Learning and Deep Learning Projects.<br/><br/>
 >:diamonds:👯 I’m looking to collaborate on ML,DL,AI projects.<br/>
 >:diamonds:💬 Ask me about OpenCV,TensorFlow,Pytorch.<br/>
 >:diamonds:📫 How to reach me: sankalp.h.c@gmail.com is my mail.<br/> 
