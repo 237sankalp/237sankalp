@@ -11,4 +11,5 @@ deeplearning and also combining these models with OpenCV.***
 >:diamonds::bowtie: Here to share and gain knowledge.<br/><br/>
 >:diamonds::alien: Fun fact: Thinking out of the box.
 <br/><br/>
+**My Projects**
 :link: [Face Detection Project](https://github.com/237sankalp/My-Face-Detection-project/blob/master/VideoD.py)
