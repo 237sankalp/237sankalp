@@ -10,3 +10,4 @@ deeplearning and also combining these models with OpenCV.***
 >:diamonds:📫 How to reach me: sankalp.h.c@gmail.com is my mail.<br/> <br/>
 >:diamonds::bowtie: Here to share and gain knowledge.<br/><br/>
 >:diamonds::alien: Fun fact: Thinking out of the box.
+<br/><br/>
