@@ -2,7 +2,7 @@
 
 ***I am Sankalp Chaudhary and my intrest lies in machine learning, 
 deeplearning and also combining these models with OpenCV.***
-
+<br/><br/>
 
 >:diamonds::curly_loop: I’m currently working on Machine Learning and Deep Learning Projects.<br/><br/>
 >:diamonds:👯 I’m looking to collaborate on ML,DL,AI projects.<br/><br/>
